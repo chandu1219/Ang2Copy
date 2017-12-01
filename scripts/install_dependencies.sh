@@ -1,5 +1,5 @@
 #!/bin/bash
 
 sudo apt-get update
-sudo apt-get install nginx
+echo "y" | sudo apt-get install nginx
 
