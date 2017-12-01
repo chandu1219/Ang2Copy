@@ -1,3 +1,3 @@
 #!/bin/bash
 
-rm -rf /usr/share/nginx/html/index.html
+rm -rf /var/www/html/index.html
