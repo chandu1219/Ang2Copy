@@ -11,4 +11,4 @@ run:
     - -c
     - |
       echo "Node Version: $(node --version)"
-      echo "Npm version: $(npm --version)"
+      echo "Npm version: $(npm -v)"
