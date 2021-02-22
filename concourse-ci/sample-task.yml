@@ -6,7 +6,7 @@ image_resource:
     repository: node
     tag: 0.10.32-slim
 run:
-  path: /bin/bash
+  path: /bin/sh
   args: 
     - -c
     - |
