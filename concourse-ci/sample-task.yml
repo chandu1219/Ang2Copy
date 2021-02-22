@@ -10,5 +10,4 @@ run:
   args: 
     - -c
     - |
-      echo "Node Version: $(node --version)"
-      echo "Npm version: $(npm -v)"
+      echo "npm Version: $(npm -v)"
